@@ -1,0 +1,41 @@
+/*****************************************************************
+Welcome page
+*****************************************************************/
+.message {
+    padding: 80px;
+    padding-bottom: 40px;
+    text-align: center;
+    font-size: 65px;
+    color: white;
+    
+}
+
+.message:hover {
+    color: #5E544A;
+    opacity: inherit;
+    font-weight: bold;
+}
+
+
+.home-click {
+    text-align: center;
+    color: white;
+    margin: 10%;
+    
+}
+.home-click a {
+    color: red;
+}
+
+body {
+    font-family: 'Permanent Marker', cursive;
+    background-image: url('/images/tools.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    background-color: #464646;
+}
+
+
+
